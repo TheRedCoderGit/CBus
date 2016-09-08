@@ -1,0 +1,34 @@
+{
+  "name": "מסעדה 1",
+  "meals": [
+    {
+      "name": "מנה 1",
+      "hasSubtype": true,
+      "subtypeName": "תוספות",
+      "subtypes": [
+        "תוספת 1",
+        "תוספת 2"
+      ]
+    },
+    {
+      "name": "מנה 2",
+      "hasSubtype": true,
+      "subtypeName": "סוג",
+      "subtypes": [
+        "סוג 1",
+        "סוג 2"
+      ]
+    },
+    {
+      "name": "מנה 3",
+      "hasSubtype": false,
+      "subtypeName": null,
+      "subtypes": null
+    }
+  ],
+  "drinks": [
+    "משקה 1",
+    "משקה 2",
+    "משקה 3"
+  ]
+}

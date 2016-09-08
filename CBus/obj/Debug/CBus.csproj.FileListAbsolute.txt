@@ -1,0 +1,11 @@
+C:\Users\base\Desktop\Magshimim\Semester 2\C\CBus\CBus\bin\Debug\CBus.exe.config
+C:\Users\base\Desktop\Magshimim\Semester 2\C\CBus\CBus\bin\Debug\CBus.exe
+C:\Users\base\Desktop\Magshimim\Semester 2\C\CBus\CBus\bin\Debug\CBus.pdb
+C:\Users\base\Desktop\Magshimim\Semester 2\C\CBus\CBus\obj\Debug\CBus.csprojResolveAssemblyReference.cache
+C:\Users\base\Desktop\Magshimim\Semester 2\C\CBus\CBus\obj\Debug\CBus.Form1.resources
+C:\Users\base\Desktop\Magshimim\Semester 2\C\CBus\CBus\obj\Debug\CBus.Properties.Resources.resources
+C:\Users\base\Desktop\Magshimim\Semester 2\C\CBus\CBus\obj\Debug\CBus.csproj.GenerateResource.Cache
+C:\Users\base\Desktop\Magshimim\Semester 2\C\CBus\CBus\obj\Debug\CBus.exe
+C:\Users\base\Desktop\Magshimim\Semester 2\C\CBus\CBus\obj\Debug\CBus.pdb
+C:\Users\base\Desktop\Magshimim\Semester 2\C\CBus\CBus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\base\Desktop\Magshimim\Semester 2\C\CBus\CBus\bin\Debug\Newtonsoft.Json.xml

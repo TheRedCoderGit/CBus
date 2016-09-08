@@ -1,0 +1,45 @@
+{
+  "name": "Example Restaurant",
+  "meals": [
+    {
+      "name": "ארוחה 1",
+      "hasSubtype1": true,
+      "subtype1Name": "סוג",
+      "hasSubtype2": true,
+      "subtype2Name": "תוספת",
+      "subtypes1": [
+        "סוג 1",
+        "סוג 2",
+        "סוג 3",
+        "סוג 4"
+      ],
+      "subtypes2": [
+        "תוספת 1",
+        "תוספת 2"
+      ]
+    },
+	{
+      "name": "ארוחה 2",
+      "hasSubtype1": false,
+      "subtype1Name": null,
+      "hasSubtype2": true,
+      "subtype2Name": "סוג",
+      "subtypes1": null,
+      "subtypes2": [
+        "תוספת 1",
+        "תוספת 2"
+      ]
+    }
+  ],
+  "salads": [
+    "סלט 1",
+    "סלט 2",
+    "סלט 3",
+    "סלט 4"
+  ],
+  "drinks": [
+    "משקה 1",
+    "משקה 2",
+    "משקה 3"
+  ]
+}

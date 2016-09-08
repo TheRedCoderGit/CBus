@@ -1,0 +1,12 @@
+[
+  {
+    "username": "username",
+    "name": "name",
+    "canEdit": false
+  },
+  {
+    "username": "base",
+    "name": "Shai List",
+    "canEdit": true
+  }
+]
